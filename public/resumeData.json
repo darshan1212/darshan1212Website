@@ -1,0 +1,186 @@
+{
+  "main": {
+    "name": "Darshan Patel",
+    "occupation": "Django/React/.NET/RESTAPI Developer",
+    "description": " ",
+    "elevatorPitch": "I am Darshan Patel, I am a Computer Engineer who like to solve Business Challenges using latest technologies. I have 3 years of experience in IT field. I have always been passionate about using latest technologies like AI and creating useful application using Django/.NET/ React / Xamarin / RESTful APIs / Java Spring / TensorFlow. Me and my team had some great successes deploying websites with latest technologies for their businesses. I would love to do the same for your company. And yes, I can soothe your stress level with my Flute playing skills.",
+    "employer": "Durham College - AI HUB",
+    "jobDescription": "Creating Complete Web and Mobile Solutions using AI. Worked on 6 different projects, with varied exposure to technologies like Django, React JS, Xamarin, .net core, etc.",
+    "image": "profile_pic.png",
+    "bio": "It's been more than 7 years since I started my carrier in IT. Throughout the years, I have gained experience in programming languages like Python, Javascript, C#, Java, C++, C, COBOL, and Dart, and eager to add more to the list. After completing my Bachelors in Computer Engineering, I got exposure to Artificial Intelligence Technologies, which I used that knowledge solving 6 unique business problems and counting. I made myself up to date with the technologies that today businesses are using. With these 7 years of expertise, I found that my speed of learning and adopting to new technologies have increased with all the basics clear. During my School days, I found myself as 'Math Guy', as I was exceptionally doing excellent in all my Mathematics classes. The best way to utilize my talent is to go with Computer Engineering where my Math knowledge will be leveraged practically. Till now, I used my same talent solving challenging business problems which inspires to do more for Humankind. I have also done an extensive research in the field of SAR Polarimetry dealing data processing using ISRO satellite data. Published 2 Research Papers and 1 Journal Paper under the same field, under guidance of Prof. Pooja Shah.",
+    "contactmessage": "Have a project for me? Think I'd be a good fit for your team? I'd love to hear from you, give me a shout by email or by using the form below if you'd like to get in contact with me.",
+    "email": "pateldarshan421@gmail.com",
+    "phone": "(437) 234-1212",
+    "address": {
+      "street": "189 Windsfields Farm Dr W",
+      "city": "Oshawa",
+      "state": "Ontario",
+      "zip": "L1L 0K2"
+    },
+    "website": "http://www.darshan1212.com",
+    "resumedownload": "https://drive.google.com/uc?id=0B-UCgWvzkA-5Q1RnV2JwYUtpVUVoQXZUdmt0NXNwVXhENUxB&export=download",
+    "social": [
+      {
+        "name": "facebook",
+        "url": "https://www.facebook.com/darshan.p.patel.7",
+        "className": "fa fa-facebook"
+      },
+      {
+        "name": "linkedin",
+        "url": "https://www.linkedin.com/in/darshan1212/",
+        "className": "fa fa-linkedin"
+      },
+      {
+        "name": "instagram",
+        "url": "https://www.instagram.com/pateldarshan421/",
+        "className": "fa fa-instagram"
+      },
+      {
+        "name": "github",
+        "url": "https://github.com/darshan1212",
+        "className": "fa fa-github"
+      }
+    ]
+  },
+  "resume": {
+    "skillmessage": "Here are my top skills:",
+    "education": [
+      {
+        "school": "Durham College, Oshawa",
+        "degree": "Computer Programmer",
+        "graduated": "April 2020 (Expected Grad. Year)",
+        "description": "Enhanced programing skills in python, java, C#.net, COBOL, php, JavaScript, HTML, CSS and HTML5& Mobile Web Development, Got familiarity Object Oriented System, System analysis and Database design, Understood different Data Structures & Algorithms, Software quality and testing, Computer training and Technical Writing as well, Primary level updating in networking system, server, platforms and network security, Developed business and communication skills with math and project management."
+      },
+      {
+        "school": "Nirma University, Ahmedabad",
+        "degree": "Bachelor of Computer Engineering",
+        "graduated": "May 2017",
+        "description": "Acquired good skills in defining, designing, coding and testing phase for the software, Learned fundamentals of programming in C, C++, java, advanced java, php, python, HTML, CSS,  JavaScript, Android, database and software testing, Got educational information about web development and networking. Have done extensive research on handling satellite data given by ISRO and applying SAR Polarimetric algorithms on the data to drive meaningful information( Published 2 Research Work, and 1 Journal Paper)."
+      }
+    ],
+    "work": [
+      {
+        "company": "AI HUB - Durham College, Oshawa",
+        "title": "Research Assistant",
+        "years": "April 2019 - Present",
+        "description": "Worked in a team environment. Completed 6 different projects - solved unique business problems. Worked with Technologies like: Django, React JS, Redux, .NET Core, Java Spring, Xamarin, React Native, Django Rest Framework, HighCharts, Material UI, Axiom, Bootstrap, JQuery, Node.js, Mongo DB, MySQL, MSSql, SQLlite, Docker, Azure, AWS - Elastic bean. Currently involved in building a realtime accurate data predictor using Tensorflow and deploying to Django using Docker on AWS Elastic bean service, to predict and estimate the quote. Develop RESTful APIs using .NET Core 3.0 and Django Rest Framework. Developed a React Native based cross platform mobile application with Django Rest Framework as backend tool, to get Parents and Teacher realtime information about child in daycare. Worked in a team environment. Completed 6 different projects - solved unique business problems. Worked with Technologies like: Django, React JS, Redux, .NET Core, Java Spring, Xamarin, React Native, Django Rest Framework, HighCharts, Material UI, Axiom, Bootstrap, JQuery, Node.js, Mongo DB, MySQL, MSSql, SQLlite, Docker, Azure, AWS - Elastic bean."
+      },
+      {
+        "company": "Durham College, Oshawa",
+        "title": "Peer Tutor",
+        "years": "October 2019 - Present",
+        "description": "Like Researching and Programming, Teaching is also one of my passion. At Durham College, I taught students the subjects which I have excelled like - Object Oriented Programming, Mathematics and Data Communications. Tutoring at Durham College gave my boost to my Canadian English."
+      },
+      {
+        "company": "Excellence Tutorial, Whitby",
+        "title": "Programming Teacher",
+        "years": "October 2018 - December 2018",
+        "description": "Kicked off new Coding Classes for kids, Designing syllabus for every age group Children, Marketing newly introduced course to parents, Teaching Mathematics (11th and 12th Grade), Helping students to understand core concepts."
+      },
+      {
+        "company": "MobileFirst, Ahmedabad",
+        "title": "Web Application Developer",
+        "years": "Jul 2017 - Aug 2018",
+        "description": "Designing to Delivering Projects, extensively using Javascript, Bootstrap and PHP/JAVA Spring as backend. Supervising the project and giving direction according to the client specifications. Modifying layouts featuring user-friendly design."
+      },
+      {
+        "company": "Nirma University, Ahemdabad",
+        "title": "Fellow Researcher",
+        "years": "Jun 2017 - July 2018",
+        "description": "Worked under a project ISRO Respond. Presented research work in Texas, USA. This project was about manipulating microwave images/data given by ISRO RISAT satellite, where I developed my skills to use GDAL library of python."
+      }
+    ],
+    "skills": [
+      {
+        "name": "Java",
+        "description": "I learned java during my first year of engineering. I had a taste of Object oriented programming then on. I fell in love with OOP. Then on, I learned many other object oriented languages like C#,C++, and Hybrid languages like Python",
+        "image": "java.jpg"
+      },
+      {
+        "name": "Python",
+        "description": "I started python when I was exposed with data science. In today's business industry, Data analytics, Artificial Intelligence are essentials according to me. I have good understanding of this language, and after java I have good hands-on python.",
+        "image": "python.jpg"
+      },
+      {
+        "name": "React Js",
+        "description": "Amazing technology developed by facebook. I always wonder looking at websites like Airbnb, which technology they use. I found out that this being one of the favourite tech among IT world now a days, and started learning. This website is developed using React JS",
+        "image": "react.jpg"
+      },
+      {
+        "name": ".NET Core",
+        "description": "My first two clients wants their website to be developed using microsoft technologies. .NET core was amazing option to develop APIs. I like to develop using .net core because of two reasons: Visual Studio and C#. Over time I sharpen my knowledge in the .net world",
+        "image": "netcore.jpg"
+      }
+    ],
+    "moreskills": [
+      {
+        "name": "Bootstrap 4",
+        "description": "I want to thank Twitter for offering such wonderful css javascript library, which makes web developer life lot easier. I have used the same technology in this website as well. Watching same website in the mobile makes it easy to navigate. ",
+        "image": "bootstrap.jpg"
+      },
+      {
+        "name": "Django",
+        "description": "I was fascinated by the idea that using Python I can develop websites. Finally, I got the alternative to use python for web development which AI and Data Analytics will be a lot easier to implement in the websites.",
+        "image": "django.jpg"
+      },
+      {
+        "name": "Linux",
+        "description": "Using opensource technologies has been my passion. I love to share my work and help others. Since installing linux on my machine, I have developed considerable speed and accuracy in using linux commands and scripts.",
+        "image": "linux.jpg"
+      },
+      {
+        "name": "Hadoop",
+        "description": "I have used hadoop for a fun academic project processing millions of words in database. I found interesting how hadoop distributes work among clusters of computers. I am also learning tensorflow to desing and train models in AI.",
+        "image": "hadoop.jpg"
+      }
+    ]
+  },
+  "portfolio": {
+    "projects": [
+      {
+        "title": "Destination Analysis using Twitter",
+        "description": "This application provides many packages for destinations for holidays and give review and ratings about proper holiday destinations. Customer can book holiday package. Also, it provides reviews and ratings of destination places which are fetching from twitter using Hadoop framework. Customer can also make his/her own custom packages",
+        "technologyused": "HTML, CSS, JAVA Script, jQuery, Bootstrap, Hadoop Framework",
+        "backendtools": "Java server pages, Java Servlets"
+      },
+      {
+        "title": "Library Locator",
+        "description": " This is a web application that searches Reading libraries near your location and shows some detail about all libraries like open status and time, location, people’s reviews and feedbacks. It also guides you how to reach at the library on Bing map",
+        "technologyused": ": HTML, CSS, JAVA Script, jQuery, Bootstrap",
+        "backendtools": "PHP, AJAX, Bing map API"
+      },
+      {
+        "title": "Portfolio Website",
+        "description": "This is a React JS website I used to develop my portfolio website, through which client can contact me for any new project, as I am actively seeking opportunities to solve their business problems with latest technologies in IT world. I have started this project after my graduation, seeking opportunites. ",
+        "technologyused": "React JS, Styelshout.com free template",
+        "backendtools": "This site requires only front end technology, React JS did rest of the work."
+      },
+      {
+        "title": "Django Fun Website",
+        "description": "I develop this website just for fun and to teach my friend Django and Python easy way. Django as a backend is wonderful technology to explore as it gives build in administration access. Based on Models, View and controller, It was a good experience to use this technology. Deployment phase is little challenging, but using Docker makes it easy to deploy (I used AWS)",
+        "technologyused": "Python, React JS, Docker",
+        "backendtools": "Django, Docker"
+      }
+    ]
+  },
+  "testimonials": {
+    "testimonials": [
+      {
+        "text": "I always admire Darshan for his work ethic, knowledge, curiosity, and kindness. He's incredibly driven and passionate about what he does at work. Darshan and I worked as a part of the same engagement at the AI/HUB in Durham College, Oshawa. Darshan's ability to effortlessly translate between the technical and business side of things is a testament to his strengths as a professional. Darshan is a reliable member of the team who leads by example with a sound technical knowledge and is always willing to help whenever he can. He has a constant zest to learn more, and shares his knowledge with others around him enabling others to learn and grow as well. He exemplifies team work and always goes an extra mile to help his colleagues in any way he can. I am very sure where ever he will work, he will surely get the success he deserves and take that very organisation to new heights. Wish you All the Best, Darshan! ",
+        "user": "Shivani Singh - Business Analyst at Metrolinx. 5 yrs of work exp. as Analyst in Banking,Transportation,Health & Energy domains."
+      }
+    ],
+    "testimonials1": [
+      {
+        "text": "After working closely with Darshan, it is my honor to say that he is one of the few people I know that is genuinely invested and passionate about what he does. Darshan is a very accountable person who takes pride in the software solutions that he develops, and is more than happy to share his knowledge with coworkers or peers. Working with Darshan is like working with a friend and colleague at the same time - not only will he take the time to get to know you at an interpersonal level, but he'll also be there for any project every step of the way. Truly an amazing gentleman with an amazing talent. ",
+        "user": "Raman Rathore - CEO of Syncing Solutions"
+      }
+    ],
+    "testimonials2": [
+      {
+        "text": "Darshan is a systematic thinker. With his extensive knowledge and analytical capabilities, he is able to find solutions to complex problems. Darshan is a person who does a lot of research behind any task he gets involved in, and he will definitely go in-depth of what, why, where and how. He is an essential contributor to the AGMS project, where he has demonstrated a great deal of intelligence. He will be a great asset to any company, and I wish him great success.",
+        "user": "Dhara Savaliya - Research Assistant and Software Developer"
+      }
+    ]
+  }
+}
